@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Personal Blog</title>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Welcome to My Personal Blog</h1>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <!--Add more navigation links as needed-->
+            </ul>
+        </div>
+        <div class="main">
+            <h2>My First Blog Post</h2> <!--Blog post Title-->
+            <p>This is my first Blog Post. I'm excited to share my thoughts with you.</p> <!--Blog post content-->
+            <a href="about.html">About Me</a> <!--Link to another page-->
+            <img src="images/Real-Time Updates with Laravel 11 Reverb, Livewire 3, and Broadcasting .png" alt="My Image"> <!--image in the blog-->
+            <h2>Other Blog Posts</h2>
+            <ul>
+                <li><a href="post1.html">Blog Post 1</a></li>
+                <li><a href="post2.html">Blog Post 2</a></li>
+                <!--Add more blog post titles as needed-->
+            </ul>
+        </div>
+        <div class="footer">
+            <p>Footer content...</p>
+        </div>
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+     
